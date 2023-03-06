@@ -1,0 +1,6 @@
+bot:
+  name: spbrates_bot
+  token: ${TOKEN}
+
+logger:
+  enabled: true
